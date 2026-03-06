@@ -67,8 +67,6 @@ Aplico Clean Architecture, principios SOLID y diseño de bases de datos para cre
 
 ## 📫 Contacto
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-Online-232F3E?style=for-the-badge&logo=circle&logoColor=green)](https://alb3rtsontl.pages.dev)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Albertson%20Terrero%20López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alb3rtsontl)
-
+[![Portafolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=About.me&logoColor=white)](https://alb3rtsontl.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alb3rtsontl)
 [![Email](https://img.shields.io/badge/Email-alb3rtsontl%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alb3rtsontl@gmail.com)
