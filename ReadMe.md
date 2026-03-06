@@ -13,7 +13,7 @@ Aplico Clean Architecture, principios SOLID y diseño de bases de datos para cre
 
 **Aprendiendo**: Docker + CI/CD con GitHub Actions y Azure
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Tech Stack
 
@@ -55,7 +55,7 @@ Aplico Clean Architecture, principios SOLID y diseño de bases de datos para cre
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Aplico Clean Architecture, principios SOLID y diseño de bases de datos para cre
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Contacto
 
